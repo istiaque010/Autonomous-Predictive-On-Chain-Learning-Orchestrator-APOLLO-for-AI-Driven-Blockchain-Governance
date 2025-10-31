@@ -453,21 +453,4 @@ We welcome contributions! To get started:
   - Incentive mechanisms for agent contributors
 
 ---
-
-## 9. License
-
-This project is released under the **MIT License**. See [LICENSE](./LICENSE) for details.
-
----
-
-## Contact & Acknowledgments
-
-- **Maintainer:** [Zubaer Mahmood Zubraj](https://github.com/zmzubraj)
-- **Email:** zmzubraj@gmail.com
-
-**Acknowledgments:**
-- Early contributors and community testers
-- Ollama for open-source LLM hosting
-- Subscan API team for data access
-
-Thank you for your interest in APOLLO! We look forward to your feedback and contributions. 🚀
+ 
