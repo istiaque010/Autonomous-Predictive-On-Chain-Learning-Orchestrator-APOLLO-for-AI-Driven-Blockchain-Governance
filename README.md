@@ -37,7 +37,7 @@ These issues result in slow proposal cycles, low turnout, and governance outcome
 
 APOLLO’s modular architecture is deployable on any blockchain supporting on-chain governance (proposal creation, voting, storage). The MVP demonstrates integration with Polkadot (Substrate), but the design is portable to Ethereum, Cosmos, Avalanche, and more.
 
-### 📦 Features
+### Features
 
 - **LLM-Based Analysis:** Uses open-source LLMs (e.g., Gemma3:4B, Deepseek R1:1.5B) via Ollama for summarization, classification, and proposal generation.
 - **Retrieval-Augmented Knowledge Base:** Stores governance data in an Excel workbook (`data/input/PKD Governance Data.xlsx`, auto-generated if missing) for retrieval-augmented generation (RAG). See [docs/workbook_structure.md](docs/workbook_structure.md) for worksheet details.
